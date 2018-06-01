@@ -1,0 +1,24 @@
+{
+  "name": "CEDAR OnDemand",
+  "description": "This browser extension helps user to curate FAIR biomedical metadata in browser",
+  "version": "1.9",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+	  "default_title": "CEDAR OnDemand"
+  },
+  "web_accessible_resources": [
+   "selectize.default.css",
+   "tingle.css",
+   "style.css",
+   "crossdomain_autocomplete.js",
+	 "cod_complete.js"
+  ],
+  "manifest_version": 2
+}
