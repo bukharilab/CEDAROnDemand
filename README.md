@@ -5,5 +5,5 @@ CEDAR OnDemand is a chrome browser extension that enables users to seamlessly en
 
 **How to cite?**
 
-To be updated
+Bukhari, S. A. C., Martínez-Romero, M., O’Connor, M. J., Egyedi, A. L., Willrett, D., Graybeal, J., ... & Kleinstein, S. H. (2018). CEDAR OnDemand: a browser extension to generate ontology-based scientific metadata. BMC bioinformatics, 19(1), 268.
 
